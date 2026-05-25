@@ -1,6 +1,5 @@
 import Foundation
 
-@MainActor
 public final class LiteRTLMEngine {
     public enum Status: Sendable, Equatable {
         case notLoaded
