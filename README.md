@@ -1,5 +1,4 @@
-# LiteRTLMSwift (Official-Source Wrapper)
-
+# LiteRTLMSwift 
 Swift Package wrapper for Google LiteRT-LM using official Google release artifacts.
 
 ## Goals
